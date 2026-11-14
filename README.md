@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/umeshkumarsahoo/umeshkumarsahoo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rapesh2p/banner/9e8f8318b093452290074e5a4c7eec4a6dae034e/banner.svg" alt="Snake animation" />
 
 ###
 ------
