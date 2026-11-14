@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rapesh2p/banner/71d1b7e55fe8a2cffdb9ab98e0cc7e3b3a81f20a/Brayan_Snake_Banner.svg" />
+<img src="https://raw.githubusercontent.com/rapesh2p/banner/baed41375b3db3e023e02b684c20ce901b7ab38b/Brayan_Snake_Banner_Infinito.svg" />
 
 ###
 ------
